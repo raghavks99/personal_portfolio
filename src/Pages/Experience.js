@@ -1,7 +1,7 @@
 import React from 'react'
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component'
 import 'react-vertical-timeline-component/style.min.css';
-import { School, WorkspacePremiumOutlined } from '@mui/icons-material';
+import { School} from '@mui/icons-material';
 import WorkIcon from '@mui/icons-material/Work';
 import "../Styles/Experience.css"
 
